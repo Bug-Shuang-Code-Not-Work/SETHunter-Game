@@ -14,4 +14,117 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLevel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteSheet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Car.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="soundclass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Graphics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLevel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteSheet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Car.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Plant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="soundclass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="test.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="test.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="playercar.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="shrub1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="tree1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="tree2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Rival.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Weapon.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="trap.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="background-converted.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="enemy-converted.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="explosion-converted.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="weapon-converted.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="accelerate-converted.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
 </Project>
