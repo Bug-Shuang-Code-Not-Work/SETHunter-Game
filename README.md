@@ -15,4 +15,4 @@ The next stage is that if the enemy car is destroyed, it will disappear from the
 
 If the user got hit by the missile, the life will be deducted, and all objects are reset to the initial stage waiting for user to start the car to initiate a second round of game.
 
-![Inital Screen](SETHunter-Game/screenshots/initial.png)
+![Inital Screen](https://github.com/Bug-Shuang-Code-Not-Work/SETHunter-Game/blob/master/screenshots/initial.png)
