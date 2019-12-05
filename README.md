@@ -1,7 +1,10 @@
 # SETHunter-Game
 This is a racing game built with C++ and DirectX 
 
-Combat Gameplay
+Control: Up Arrow to accelerate, Down Arrow to decelerate. Left and Right Arrow to control direction.
+
+
+Gameplay Rules:
 The game mechanism in the game can be broken into several stages:
 
 The first stage is the initial stage. All objects are initialized and only player car is rendered inside the screen and all other objects other than the randomly generated plants are not visible in the screen. At this stage, the player car is staying at the initial position with speed of 0, waiting for player keyboard input. The background music is playing in loop.
@@ -15,4 +18,21 @@ The next stage is that if the enemy car is destroyed, it will disappear from the
 
 If the user got hit by the missile, the life will be deducted, and all objects are reset to the initial stage waiting for user to start the car to initiate a second round of game.
 
-![Inital Screen](https://github.com/Bug-Shuang-Code-Not-Work/SETHunter-Game/blob/master/screenshots/initial.png)
+
+Initial Start of the Game
+![Inital Screen]
+(https://github.com/Bug-Shuang-Code-Not-Work/SETHunter-Game/blob/master/screenshots/initial.png)
+
+Enemy Pursuing player car and attack 
+![Enemy Pursuit]
+(https://github.com/Bug-Shuang-Code-Not-Work/SETHunter-Game/blob/master/screenshots/enemypurse.png)
+
+Ongoing Battle between user and enemy
+![Ongoling Battle]
+(https://github.com/Bug-Shuang-Code-Not-Work/SETHunter-Game/blob/master/screenshots/ongolingcombat.png)
+
+The Score is reset if user is dead
+![Score Reset]
+(https://github.com/Bug-Shuang-Code-Not-Work/SETHunter-Game/blob/master/screenshots/scorereset.png)
+
+
