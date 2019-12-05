@@ -1,7 +1,7 @@
 # SETHunter-Game
 This is a racing game built with C++ and DirectX 
 
-Control: Up Arrow to accelerate, Down Arrow to decelerate. Left and Right Arrow to control direction.
+Control: Up Arrow to accelerate, Down Arrow to decelerate. Left and Right Arrow to control direction.  Space Bar for using Mine to destroy enemy
 
 
 Gameplay Rules:
